@@ -1,0 +1,11 @@
+gym==0.22.0
+gym-minigrid==1.0.2
+gym-notices==0.0.8
+imageio==2.16.0
+matplotlib==3.5.0
+matplotlib-inline==0.1.2
+matplotlib-scalebar==0.7.2
+numpy==1.21.2
+sympy==1.9
+torch==1.10.2
+opencv-python==4.6.0.66
